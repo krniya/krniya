@@ -1,4 +1,4 @@
-p### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Nitish Kumar <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+d**Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am *Nitish Kumar* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**
 
 ## I am a Software Engineer 👨‍💻, lifelong learner 🧠 and ML Enthusiast ⚙ 
 <img align="right" alt="GIF" src="https://github.com/krniya/krniya/blob/main/l.gif" width="300" height="250" />
@@ -52,18 +52,19 @@ p### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 <img alt="Year badge" src="https://badges.pufler.dev/years/krniya">
 <img alt="repo" src ="https://badges.pufler.dev/repos/krniya">
 <img alt="commit" src="https://badges.pufler.dev/commits/monthly/krniya">
+<a href="https://twitter.com/_hemant_joshi"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/krniya_?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_hemant_joshi"></a>
 </p>
 
 <br />
 
-<p align="center>
+<div align="center>
 **⚔ Here's a *Weeb* Quote ⚔**
 
-</p>
+</div>
 <br />  
 <img align= "center" src="https://github.com/krniya/krniya/blob/main/haikyuu.gif" width="900" height="300">
 
-[twitter]: https://www.twitter.com/krniya21/
+[twitter]: https://www.twitter.com/krniya_/
 [instagram]: https://instagram.com/krniya/
 [linkedin]: https://www.linkedin.com/in/krniya/
 [spotify]: https://open.spotify.com/user/q47rrprk3lt29n4gwydvqsd8z?si=Z5T7oO4iQLqK2oBzCTVjFg
