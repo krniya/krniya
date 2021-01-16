@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Nitish Kumar <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+p### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Nitish Kumar <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ## I am a Software Engineer 👨‍💻, lifelong learner 🧠 and ML Enthusiast ⚙ 
 <img align="right" alt="GIF" src="https://github.com/krniya/krniya/blob/main/l.gif" width="300" height="250" />
@@ -56,7 +56,10 @@
 
 <br />
 
-**⚔ Here's a *Weeb* Quote:**
+<p align="center>
+**⚔ Here's a *Weeb* Quote ⚔**
+
+</p>
 <br />  
 <img align= "center" src="https://github.com/krniya/krniya/blob/main/haikyuu.gif" width="900" height="300">
 
