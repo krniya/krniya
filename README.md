@@ -43,6 +43,10 @@
 <img align="left" alt="krniya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=krniya&show_icons=true&hide_border=true&theme=gotham" />
 
 <br />
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=krniya&hide_title=true&hide_border=true&langs_count=5)
+
+
 <img align="center" alt="Visitor Counter" src="https://visitor-badge.glitch.me/badge?page_id=krniya.krniya">
 <br />
 <img align= "center" src="https://github.com/krniya/krniya/blob/main/haikyuu.gif" width="900" height="300">
