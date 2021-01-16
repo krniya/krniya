@@ -40,6 +40,7 @@
 <code><img alt="Django" width="26px" src="https://avatars2.githubusercontent.com/u/27804?s=88&v=4"></code>
 
 <br />
+<hr>
 
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
@@ -49,6 +50,8 @@
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krniya&langs_count=8&layout=compact&hide_border=true" />
   </a>
 </p>
+
+<hr>
 
 <p align="center">
 <img alt="Visitor Counter" src="https://visitor-badge.glitch.me/badge?page_id=krniya.krniya">
