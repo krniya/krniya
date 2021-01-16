@@ -15,8 +15,8 @@
 [<img align="left" alt="krniya21 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="krniya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="krniya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="krniya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
-[spotify]
+<!-- [<img align="left" alt="krniya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+[spotify] -->
 <br />
 
 ### Languages and Tools:
@@ -37,13 +37,13 @@
 
 <br />
 <br />
-**:zap: My GitHub Stats</summary**
+
+## ⚡ My GitHub Stats
 
 <img align="left" alt="krniya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=krniya&show_icons=true&hide_border=true&theme=gotham" />
 
 <br />
-<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=krniya.krniya) -->
-<code><img alt="Visitor Counter" align="center" src="https://visitor-badge.glitch.me/badge?page_id=krniya.krniya"></code>
+<img align="center" alt="Visitor Counter" src="https://visitor-badge.glitch.me/badge?page_id=krniya.krniya">
 <br />
 <img align= "center" src="https://github.com/krniya/krniya/blob/main/haikyuu.gif" width="900" height="300">
 
