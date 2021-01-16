@@ -38,7 +38,7 @@
 <br />
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="krniya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=krniya&show_icons=true&hide_border=true" />
+  <img align="left" alt="krniya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=krniya&show_icons=true&hide_border=true&theme=gotham" />
 
 <br />
 <img align= "center" src="https://github.com/krniya/krniya/blob/main/haikyuu.gif" width="900" height="300">
