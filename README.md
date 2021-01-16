@@ -41,15 +41,14 @@
 
 <br />
 
-## ⚡ *My GitHub Stats*
-
-<img alt="krniya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=krniya&show_icons=true&hide_border=true" />
-
-<br />
-
-## 🎯 *Programming Stats(Weekly)*
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=krniya&hide_title=true&hide_border=true&langs_count=5)
+<p align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=krniya&show_icons=true&hide_border=true">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krniya&langs_count=8&layout=compact&hide_border=true&show_icons=true" />
+  </a>
+</p>
 
 <p align="center">
 <img alt="Visitor Counter" src="https://visitor-badge.glitch.me/badge?page_id=krniya.krniya">
