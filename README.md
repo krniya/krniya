@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Nitish Kumar 
 
 ## I am a Software Engineer, lifelong learner and ML Enthusiast
-<img align="right" alt="GIF" src="https://github.com/krniya/krniya/blob/main/l.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/krniya/krniya/blob/main/l.gif" width="300" height="250" />
 
 - 🔭 I’m currently working on **Personal Blogging site**
 - 🌱 I’m currently learning **React**
