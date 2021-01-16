@@ -52,15 +52,13 @@
 <img alt="Year badge" src="https://badges.pufler.dev/years/krniya">
 <img alt="repo" src ="https://badges.pufler.dev/repos/krniya">
 <img alt="commit" src="https://badges.pufler.dev/commits/monthly/krniya">
-<a href="https://twitter.com/_hemant_joshi"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/krniya_?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@krniya_"></a>
+<a href="https://twitter.com/_hemant_joshi"><img height="26px"alt="Twitter Follow" src="https://img.shields.io/twitter/follow/krniya_?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@krniya_"></a>
 </p>
 
 <br />
 
-<div align="center>
 **⚔ Here's a *Weeb* Quote ⚔**
 
-</div>
 <br />  
 <img align= "center" src="https://github.com/krniya/krniya/blob/main/haikyuu.gif" width="900" height="300">
 
