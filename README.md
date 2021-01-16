@@ -1,14 +1,16 @@
 <img align= "center" src="https://github.com/krniya/krniya/blob/main/shiroe.gif" width="900" height="200">
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> **I am *Nitish Kumar* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**
+<div align="center">
+<h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am <i>Nitish Kumar</i> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-## A *Software Engineer* 👨‍💻, *lifelong learner* 🧠 and *ML Enthusiast* ⚙ 
+<h2>A <i>Software Engineer</i> 👨‍💻, <i>lifelong learner</i> 🧠 and <i>ML Enthusiast</i> ⚙</h2>
+</div>
 <img align="right" alt="GIF" src="https://github.com/krniya/krniya/blob/main/l.gif" width="300" height="250" />
 
-- 🔭 I’m currently working on **Personal Blogging site**
-- 🌱 I’m currently learning **React**
-- 🥅 2021 Goals: **Contribute more to Open Source projects**
-- ⚡ Fun fact: **I love graphics designing, Gaming & am a *Weeb*⚔**
+- 🔭 *I’m currently working on* **Personal Blogging site**
+- 🌱 *I’m currently learning* **React**
+- 🥅 *2021 Goals:* **Contribute more to Open Source projects**
+- ⚡ *Fun fact:* **I love graphics designing, Gaming & am a *Weeb*⚔**
 
 <br />
 
