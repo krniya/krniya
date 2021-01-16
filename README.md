@@ -42,7 +42,8 @@
 <img align="left" alt="krniya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=krniya&show_icons=true&hide_border=true&theme=gotham" />
 
 <br />
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=krniya.krniya)
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=krniya.krniya) -->
+<code><img alt="Visitor Counter" align="center" src="https://visitor-badge.glitch.me/badge?page_id=krniya.krniya"></code>
 <br />
 <img align= "center" src="https://github.com/krniya/krniya/blob/main/haikyuu.gif" width="900" height="300">
 
