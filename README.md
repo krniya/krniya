@@ -1,4 +1,4 @@
-d**Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am *Nitish Kumar* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**
+#Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> **I am *Nitish Kumar* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**
 
 ## I am a Software Engineer 👨‍💻, lifelong learner 🧠 and ML Enthusiast ⚙ 
 <img align="right" alt="GIF" src="https://github.com/krniya/krniya/blob/main/l.gif" width="300" height="250" />
@@ -52,7 +52,7 @@ d**Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/
 <img alt="Year badge" src="https://badges.pufler.dev/years/krniya">
 <img alt="repo" src ="https://badges.pufler.dev/repos/krniya">
 <img alt="commit" src="https://badges.pufler.dev/commits/monthly/krniya">
-<a href="https://twitter.com/_hemant_joshi"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/krniya_?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_hemant_joshi"></a>
+<a href="https://twitter.com/_hemant_joshi"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/krniya_?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@krniya_"></a>
 </p>
 
 <br />
