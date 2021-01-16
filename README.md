@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> **I am *Nitish Kumar* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**
 
-## I am a Software Engineer 👨‍💻, lifelong learner 🧠 and ML Enthusiast ⚙ 
+## I am a *Software Engineer* 👨‍💻, *lifelong learner* 🧠 and *ML Enthusiast* ⚙ 
 <img align="right" alt="GIF" src="https://github.com/krniya/krniya/blob/main/l.gif" width="300" height="250" />
 
 - 🔭 I’m currently working on **Personal Blogging site**
@@ -10,7 +10,7 @@
 
 <br />
 
-### Find me on Web🕸:
+### *Find me on Web*🕸:
 
 [<img align="left" alt="krniya21 | Twitter" width="22px" src="https://github.com/krniya/krniya/blob/main/twitter.png" />][twitter]
 [<img align="left" alt="krniya | LinkedIn" width="22px" src="https://github.com/krniya/krniya/blob/main/linkedin.png" />][linkedin]
@@ -19,7 +19,7 @@
 
 <br />
 
-### Languages🔨 and Tools🔧:
+### *Languages🔨 and Tools*🔧:
 
 <code><img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
@@ -37,13 +37,13 @@
 
 <br />
 
-## ⚡ My GitHub Stats
+## ⚡ *My GitHub Stats*
 
 <img alt="krniya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=krniya&show_icons=true&hide_border=true&theme=gotham" />
 
 <br />
 
-## 🎯 Programming Stats:
+## 🎯 *Programming Stats(Weekly)*
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=krniya&hide_title=true&hide_border=true&langs_count=5)
 
@@ -54,12 +54,12 @@
 <img alt="commit" src="https://badges.pufler.dev/commits/monthly/krniya">
 </p>
 <p align="center">
-<a href="https://twitter.com/_hemant_joshi"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/krniya_?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@krniya_"></a>
+<a href="https://twitter.com/krniya_"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/krniya_?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@krniya_"></a>
 </p>
 
 <br />
 
-## ⚔ Here's a *Weeb* Quote ⚔
+<h2 align='center'>⚔ Here's a <i>Weeb</i> Quote ⚔<h2>
 
 <br />  
 <img align= "center" src="https://github.com/krniya/krniya/blob/main/haikyuu.gif" width="900" height="300">
