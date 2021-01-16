@@ -1,8 +1,8 @@
 <img align= "center" src="https://github.com/krniya/krniya/blob/main/shiroe.gif" width="900" height="200">
 
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> **I am *Nitish Kumar* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> **I am *Nitish Kumar* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**
 
-## I am a *Software Engineer* 👨‍💻, *lifelong learner* 🧠 and *ML Enthusiast* ⚙ 
+## A *Software Engineer* 👨‍💻, *lifelong learner* 🧠 and *ML Enthusiast* ⚙ 
 <img align="right" alt="GIF" src="https://github.com/krniya/krniya/blob/main/l.gif" width="300" height="250" />
 
 - 🔭 I’m currently working on **Personal Blogging site**
