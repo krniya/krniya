@@ -14,7 +14,7 @@
 
 [<img align="left" alt="krniya21 | Twitter" width="22px" src="https://github.com/krniya/krniya/blob/main/twitter.png" />][twitter]
 [<img align="left" alt="krniya | LinkedIn" width="22px" src="https://github.com/krniya/krniya/blob/main/linkedin.png" />][linkedin]
-[<img align="left" alt="krniya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="krniya | Instagram" width="22px" src="https://github.com/krniya/krniya/blob/main/insta.png" />][instagram]
 [<img align="left" alt="krniya | Instagram" width="22px" src="https://github.com/krniya/krniya/blob/main/spotify.png" />][spotify]
 
 <br />
