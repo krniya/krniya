@@ -39,15 +39,14 @@
 <code><img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" ></code>
 <code><img alt="Django" width="26px" src="https://avatars2.githubusercontent.com/u/27804?s=88&v=4"></code>
 
-<br />
 <hr>
 
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=krniya&show_icons=true&hide_border=true">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=krniya&show_icons=true&hide_border=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krniya&langs_count=8&layout=compact&hide_border=true" />
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krniya&langs_count=8&layout=compact&hide_border=true" />
   </a>
 </p>
 
