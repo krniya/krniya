@@ -12,11 +12,11 @@
 
 ### Find me on Web🕸:
 
-[<img align="left" alt="krniya21 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="krniya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="krniya21 | Twitter" width="22px" src="https://github.com/krniya/krniya/blob/main/twitter.png" />][twitter]
+[<img align="left" alt="krniya | LinkedIn" width="22px" src="https://github.com/krniya/krniya/blob/main/linkedin.png" />][linkedin]
 [<img align="left" alt="krniya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="krniya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
-[spotify]
+[<img align="left" alt="krniya | Instagram" width="22px" src="https://github.com/krniya/krniya/blob/main/spotify.png" />][spotify]
+
 <br />
 
 ### Languages🔨 and Tools🔧:
@@ -47,12 +47,12 @@
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=krniya&hide_title=true&hide_border=true&langs_count=5)
 
-
-<img align="center" alt="Visitor Counter" src="https://visitor-badge.glitch.me/badge?page_id=krniya.krniya">
-![Years Badge](https://badges.pufler.dev/years/krniya)
-![Repos Badge](https://badges.pufler.dev/repos/krniya)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/krniya)
-
+<p align="center">
+<img alt="Visitor Counter" src="https://visitor-badge.glitch.me/badge?page_id=krniya.krniya">
+<img alt="Year badge" src="https://badges.pufler.dev/years/krniya">
+<img alt="repo" src ="https://badges.pufler.dev/repos/krniya">
+<img alt="commit" src="https://badges.pufler.dev/commits/monthly/krniya">
+</p>
 
 <br />
 
