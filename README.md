@@ -6,20 +6,20 @@
 - 🔭 I’m currently working on **Personal Blogging site**
 - 🌱 I’m currently learning **React**
 - 🥅 2021 Goals: **Contribute more to Open Source projects**
-- ⚡ Fun fact: **I love graphics designing, Gaming & Anime**
+- ⚡ Fun fact: **I love graphics designing, Gaming & am a *Weeb*⚔**
 
 <br />
 
-### Connect with me:
+### Find me on Web🕸:
 
 [<img align="left" alt="krniya21 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="krniya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="krniya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<!-- [<img align="left" alt="krniya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
-[spotify] -->
+[<img align="left" alt="krniya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+[spotify]
 <br />
 
-### Languages and Tools:
+### Languages🔨 and Tools🔧:
 
 <code><img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
@@ -36,7 +36,6 @@
 <code><img alt="Django" width="26px" src="https://avatars2.githubusercontent.com/u/27804?s=88&v=4"></code>
 
 <br />
-<br />
 
 ## ⚡ My GitHub Stats
 
@@ -44,14 +43,25 @@
 
 <br />
 
+## 🎯 Programming Stats:
+
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=krniya&hide_title=true&hide_border=true&langs_count=5)
 
 
 <img align="center" alt="Visitor Counter" src="https://visitor-badge.glitch.me/badge?page_id=krniya.krniya">
+![Years Badge](https://badges.pufler.dev/years/krniya)
+![Repos Badge](https://badges.pufler.dev/repos/krniya)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/krniya)
+
+
 <br />
+
+**⚔ Here's a *Weeb* Quote:**
+<br />  
 <img align= "center" src="https://github.com/krniya/krniya/blob/main/haikyuu.gif" width="900" height="300">
 
 [twitter]: https://www.twitter.com/krniya21/
 [instagram]: https://instagram.com/krniya/
 [linkedin]: https://www.linkedin.com/in/krniya/
+[spotify]: https://open.spotify.com/user/q47rrprk3lt29n4gwydvqsd8z?si=Z5T7oO4iQLqK2oBzCTVjFg
 
