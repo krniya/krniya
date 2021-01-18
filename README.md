@@ -7,10 +7,10 @@
 </div>
 <img align="right" alt="GIF" src="https://github.com/krniya/krniya/blob/main/Assets/l.gif" width="300" height="250" />
 
-- 🔭 *I’m currently working on* **Personal Blogging site**
-- 🌱 *I’m currently learning* **React**
-- 🥅 *2021 Goals:* **Contribute more to Open Source projects**
-- ⚡ *Fun fact:* **I love graphics designing, Gaming & am a *Weeb*⚔**
+- 🔭 *I’m currently working on* **Personal Blogging site📑**
+- 🌱 *I’m currently learning* **React⚛**
+- 🥅 *2021 Goals:* **Contribute more to Open Source projects👐**
+- ⚡ *Fun fact:* **I love graphics designing🌵, Gaming🎮 & am a *Weeb*⚔**
 
 <br />
 
@@ -46,7 +46,7 @@
   <img height=175 width=420 align="center" src="https://github-readme-stats.vercel.app/api?username=krniya&show_icons=true&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 width=420 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krniya&langs_count=8&layout=compact&hide_border=true" />
+  <img height=175 width=420 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krniya&langs_count=8&layout=compact&hide_border=true&hide=jupyter%20notebook" />
 </a>
 
 
