@@ -1,11 +1,11 @@
-<img align= "center" src="https://github.com/krniya/krniya/blob/main/Assets/shiroe.gif" width="900" height="200">
+<img align= "center" alt="Full Control Counter" src="https://github.com/krniya/krniya/blob/main/Assets/shiroe.gif" width="900" height="200">
 
 <div align="center">
-<h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am <i>Nitish Kumar</i> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <i>I am Nitish Kumar </i><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-<h2>A <i>Software Engineer</i> 👨‍💻, <i>lifelong learner</i> 🧠 and <i>ML Enthusiast</i> ⚙</h2>
+<h2><i>A Software Engineer 👨‍💻, lifelong learner 🧠 and ML Enthusiast</i> ⚙</h2>
 </div>
-<img align="right" alt="GIF" src="https://github.com/krniya/krniya/blob/main/Assets/l.gif" width="300" height="250" />
+<img align="right" alt="L for Light" src="https://github.com/krniya/krniya/blob/main/Assets/l.gif" width="300" height="250" />
 
 - 🔭 *I’m currently working on* **Personal Blogging site📑**
 - 🌱 *I’m currently learning* **React⚛**
@@ -67,7 +67,7 @@
 <h2 align='center'>⚔ Here's a <i>Weeb</i> Quote ⚔<h2>
 
 <br />  
-<img align= "center" src="https://github.com/krniya/krniya/blob/main/Assets/haikyuu.gif" width="900" height="300">
+<img align= "center" alt="But You can fly higher!" src="https://github.com/krniya/krniya/blob/main/Assets/haikyuu.gif" width="900" height="300">
 
 [twitter]: https://www.twitter.com/krniya_/
 [instagram]: https://instagram.com/krniya/
