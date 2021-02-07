@@ -41,13 +41,14 @@
 
 <hr>
 
-
+<a align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
   <img height=175 width=420 align="center" src="https://github-readme-stats.vercel.app/api?username=krniya&show_icons=true&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 width=420 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krniya&langs_count=8&layout=compact&hide_border=true&hide=jupyter%20notebook" />
+  <img height=175 width=420 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krniya&langs_count=8&layout=compact&hide_border=true&hide=jupyter%20notebook,java" />
 </a>
+  </a>
 
 
 <hr>
