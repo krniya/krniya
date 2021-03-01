@@ -8,7 +8,7 @@
 <img align="right" alt="L for Light" src="https://github.com/krniya/krniya/blob/main/Assets/l.gif" width="300" height="250" />
 
 - 🔭 *I’m currently working on* **Personal Blogging site📑**
-- 🌱 *I’m currently learning* **How to Contribute in open source👐**
+- 🌱 *I’m currently learning* **Docker 🐳**
 - 🥅 *2021 Goals:* **Contribute more to Open Source projects👐**
 - ⚡ *Fun fact:* **I love graphics designing🌵, Gaming🎮 & am a *Weeb*⚔**
 
