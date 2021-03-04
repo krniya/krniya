@@ -25,23 +25,23 @@
 
 ### *Languages🔨 and Tools*🔧:
 
-<code><img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
-<code><img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></code>
-<code><img alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" ></code>
-<code><img alt="javascript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" ></code>
-<code><img alt="Gatsby" width="40px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" ></code>
-<code><img alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" ></code>
-<code><img alt="Django" width="40px" src="https://avatars2.githubusercontent.com/u/27804?s=88&v=4"></code>
-<code><img alt="MongoDB" width="40px" src="https://github.com/krniya/krniya/blob/main/Assets/mongodb.png" ></code>
-<code><img alt="Postgres" width="40px" src="https://github.com/krniya/krniya/blob/main/Assets/postgresql.svg" ></code>
-<code><img alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" ></code>
-<code><img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" ></code>
-<code><img alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" ></code>
-<code><img alt="Docker" width="40px" src="https://github.com/krniya/krniya/blob/main/Assets/docker.png" ></code>
-<code><img alt="Azure" width="40px" src="https://github.com/krniya/krniya/blob/main/Assets/azure1.png" ></code>
-<code><img alt="Figma" width="40px" height="30px" src="https://github.com/krniya/krniya/blob/main/Assets/figma.svg" ></code>
+<code><img alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
+<code><img alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></code>
+<code><img alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" ></code>
+<code><img alt="javascript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" ></code>
+<code><img alt="Gatsby" width="35px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" ></code>
+<code><img alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" ></code>
+<code><img alt="Django" width="35px" src="https://avatars2.githubusercontent.com/u/27804?s=88&v=4"></code>
+<code><img alt="MongoDB" width="35px" src="https://github.com/krniya/krniya/blob/main/Assets/mongodb.png" ></code>
+<code><img alt="Postgres" width="35px" src="https://github.com/krniya/krniya/blob/main/Assets/postgresql.svg" ></code>
+<code><img alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" ></code>
+<code><img alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" ></code>
+<code><img alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" ></code>
+<code><img alt="Docker" width="35px" src="https://github.com/krniya/krniya/blob/main/Assets/docker.png" ></code>
+<code><img alt="Azure" width="35px" src="https://github.com/krniya/krniya/blob/main/Assets/azure1.png" ></code>
+<code><img alt="Figma" width="35px" height="30px" src="https://github.com/krniya/krniya/blob/main/Assets/figma.svg" ></code>
 
 
 <hr>
