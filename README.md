@@ -54,9 +54,10 @@
   <img height=175 width=49% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krniya&langs_count=8&layout=compact&hide_border=true&hide=jupyter%20notebook,java,roff" />
 </a>
   </a>
-
-
 <hr>
+
+<img align="center" height=175 width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=krniya&border=ffffff&ring=ed6161&fire=f03737" alt="GitHub Streak" />
+
 
 <p align="center">
 <img alt="Visitor Counter" src="https://visitor-badge.glitch.me/badge?page_id=krniya.krniya">
