@@ -3,7 +3,7 @@
 <div align="center">
 <h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <i>I am Nitish Kumar </i><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-<h2><i>A Software Engineer 👨‍💻, lifelong learner 🧠 and ML Enthusiast</i> ⚙</h2>
+<h2><i>A Software Engineer 👨‍💻, lifelong learner 🧠 and ML Enthusiast 🤖</i> ⚙</h2>
 </div>
 <img align="right" alt="L for Light" src="https://github.com/krniya/krniya/blob/main/Assets/l.gif" width="300" height="250" />
 
