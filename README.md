@@ -16,7 +16,7 @@
 
 ### *Find me on Web*🕸:
 
-[<img align="left" alt="krniya21 | Twitter" width="22px" src="https://github.com/krniya/krniya/blob/main/Assets/twitter.png" />][twitter]
+[<img align="left" alt="krniya_ | Twitter" width="22px" src="https://github.com/krniya/krniya/blob/main/Assets/twitter.png" />][twitter]
 [<img align="left" alt="krniya | LinkedIn" width="22px" src="https://github.com/krniya/krniya/blob/main/Assets/linkedin.png" />][linkedin]
 [<img align="left" alt="krniya | Instagram" width="22px" src="https://github.com/krniya/krniya/blob/main/Assets/insta.png" />][instagram]
 [<img align="left" alt="krniya | Instagram" width="22px" src="https://github.com/krniya/krniya/blob/main/Assets/spotify.png" />][spotify]
