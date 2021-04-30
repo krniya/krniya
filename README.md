@@ -10,7 +10,7 @@
 - 🔭 *I’m currently working on* **TrackMyWeeb App ⏰**
 - 🌱 *I’m currently learning* **MicroServices 🦠**
 - 🥅 *2021 Goals:* **Contribute more to Open Source projects👐**
-- ⚡ *Fun fact:* **I love graphics designing🌵, Gaming🎮 & am a *Weeb*⚔**
+- ⚡ *Fun fact:* **I love graphics designing🌵, Gaming🎮 & am a *Otaku*⚔**
 
 <br />
 
@@ -71,7 +71,7 @@
 
 <br />
 
-<h2 align='center'>⚔ Here's a <i>Weeb</i> Quote ⚔<h2>
+<h2 align='center'>⚔ Here's a <i>Otaku</i> Quote ⚔<h2>
 
 <br />  
 <img align= "center" alt="But You can fly higher!" src="https://github.com/krniya/krniya/blob/main/Assets/haikyuu.gif" width="100%" height="300">
