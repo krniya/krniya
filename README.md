@@ -1,7 +1,7 @@
 <img align= "center" alt="Full Control Counter" src="https://github.com/krniya/krniya/blob/main/Assets/shiroe.gif" width="100%" height="200">
 
 <div align="center">
-<h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <i>I am Nitish Kumar </i><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <i>I am Nitish Kumar </i><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h2>
 
 <h2><i>A Software Engineer 👨‍💻, lifelong learner 🧠 and ML Enthusiast 🤖</i></h2>
 </div>
