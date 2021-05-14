@@ -10,7 +10,7 @@
 - 🔭 *I’m currently working on* **TrackMyWeeb App ⏰**
 - 🌱 *I’m currently learning* **MERN ⚛**
 - 🥅 *2021 Goals:* **Contribute more to Open Source projects👐**
-- ⚡ *Fun fact:* **I love graphics designing🌵, Gaming🎮 & am a *Otaku*⚔**
+- ⚡ *Fun fact:* **I love graphics designing🎨, Gaming🎮 & am a *Otaku*⚔**
 
 <br />
 
