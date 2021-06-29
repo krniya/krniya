@@ -66,7 +66,7 @@
 <img alt="commit" src="https://badges.pufler.dev/commits/monthly/krniya">
 </p>
 <p align="center">
-<a href="https://twitter.com/krniya_"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kneeyaa_?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@krniya_"></a>
+<a href="https://twitter.com/kneeyaa_"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kneeyaa_?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@kneeyaa_"></a>
 </p>
 
 <br />
