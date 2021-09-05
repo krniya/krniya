@@ -7,7 +7,7 @@
 </div>
 <img align="right" alt="L for Light" src="https://github.com/krniya/krniya/blob/main/Assets/l.gif" width="300" height="250" />
 
-- 🔭 *I’m currently working on* **TrackMyWeeb App ⏰**
+- 🔭 *I’m currently working on* **Data Structure and Algorithms ⏰**
 - 🌱 *I’m currently learning* **Microservices 🦠 & MERN**
 - 🥅 *2021 Goals:* **Contribute more to Open Source projects👐**
 - ⚡ *Fun fact:* **I love graphics designing🎨, Gaming🎮 & am a *Otaku*⚔**
