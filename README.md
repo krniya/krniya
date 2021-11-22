@@ -41,7 +41,6 @@
 <code><img alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" ></code>
 <code><img alt="Docker" width="35px" src="https://github.com/krniya/krniya/blob/main/Assets/docker.png" ></code>
 <code><img alt="Azure" width="35px" src="https://github.com/krniya/krniya/blob/main/Assets/azure1.png" ></code>
-<code><img alt="Figma" width="35px" height="32px" src="https://github.com/krniya/krniya/blob/main/Assets/figma.svg" ></code>
 
 
 <hr>
