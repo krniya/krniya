@@ -1,16 +1,16 @@
 <img align= "center" alt="Full Control Counter" src="https://github.com/krniya/krniya/blob/main/Assets/shiroe.gif" width="1050" height="200">
 
 <div align="center">
-<h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <i>I am Nitish Kumar aka NiYa</i><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h2>
+<h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> <i>I am Nitish Kumar aka NiYa</i><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h2>
 
 <h2><i>A Software Engineer 👨‍💻, lifelong learner 🧠 and ML Enthusiast 🤖</i></h2>
 </div>
 <img align="right" alt="L for Light" src="https://github.com/krniya/krniya/blob/main/Assets/l.gif" width="300" height="250" />
 
-- 🔭 *I’m currently working on* **Data Structure and Algorithms ⏰**
-- 🌱 *I’m currently learning* **Microservices 🦠 & MERN**
-- 🥅 *2021 Goals:* **Contribute more to Open Source projects👐**
-- ⚡ *Fun fact:* **I love graphics designing🎨, Gaming🎮 & am a *Otaku*⚔**
+-   🔭 _I’m currently working on_ **Data Structure and Algorithms ⏰**
+-   🌱 _I’m currently learning_ **Microservices 🦠 & MERN**
+-   🥅 _2021 Goals:_ **Contribute more to Open Source projects👐**
+-   ⚡ _Fun fact:_ **I love graphics designing🎨, Gaming🎮 & am a *Otaku*⚔**
 
 <br />
 
@@ -40,7 +40,6 @@
 <code><img alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" ></code>
 <code><img alt="Azure" width="35px" src="https://github.com/krniya/krniya/blob/main/Assets/azure1.png" ></code>
 
-
 <hr>
 
 <a align="center">
@@ -54,7 +53,6 @@
 <hr>
 
 <img align="center" height=175 width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=krniya&border=ffffff&ring=ed6161&fire=f03737" alt="GitHub Streak" />
-
 
 <p align="center">
 <img alt="Visitor Counter" src="https://visitor-badge.glitch.me/badge?page_id=krniya.krniya">
@@ -77,4 +75,3 @@
 [instagram]: https://instagram.com/krniya/
 [linkedin]: https://www.linkedin.com/in/krniya/
 [spotify]: https://open.spotify.com/user/q47rrprk3lt29n4gwydvqsd8z?si=Z5T7oO4iQLqK2oBzCTVjFg
-
