@@ -7,9 +7,9 @@
 </div>
 <img align="right" alt="L for Light" src="https://github.com/krniya/krniya/blob/main/Assets/l.gif" width="300" height="250" />
 
--   🔭 _I’m currently working on_ **Data Structure and Algorithms ⏰**
--   🌱 _I’m currently learning_ **Microservices 🦠 & MERN**
--   🥅 _2021 Goals:_ **Contribute more to Open Source projects👐**
+-   🔭 _I’m currently working on_ **Blockchain 🔗 Technology 🪙**
+-   🌱 _I’m currently learning_ **High Level Design↗️ & Low Level Design↘️**
+-   🥅 _2022 Goals:_ **Contribute more to Open Source projects👐**
 -   ⚡ _Fun fact:_ **I love graphics designing🎨, Gaming🎮 & am a *Otaku*⚔**
 
 <br />
