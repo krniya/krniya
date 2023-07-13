@@ -55,7 +55,7 @@
 <img align="center" height=175 width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=krniya&border=ffffff&ring=ed6161&fire=f03737" alt="GitHub Streak" />
 
 <p align="center">
-<img alt="Visitor Counter" src="https://visitor-badge.glitch.me/badge?page_id=krniya.krniya">
+<img alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=krniya&label=Profile%20views&color=0e75b6&style=flat">
 <img alt="Year badge" src="https://badges.pufler.dev/years/krniya">
 <img alt="repo" src ="https://badges.pufler.dev/repos/krniya">
 <img alt="commit" src="https://badges.pufler.dev/commits/monthly/krniya">
