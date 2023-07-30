@@ -44,15 +44,15 @@
 
 <a align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-  <img height=175 width=49% align="center" src="https://github-readme-stats.vercel.app/api?username=krniya&show_icons=true&hide_border=true" />
+  <img height=175 width=49% align="center" src="https://github-readme-stats.vercel.app/api?username=krniya&show_icons=true&theme=dark&border_color=000000" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 width=49% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krniya&langs_count=8&layout=compact&hide_border=true&hide=jupyter%20notebook,java,roff" />
+  <img height=175 width=49% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krniya&langs_count=8&layout=compact&hide_border=true&hide=jupyter%20notebook,java,roff&theme=dark" />
 </a>
   </a>
 <hr>
 
-<img align="center" height=175 width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=krniya&border=ffffff&ring=ed6161&fire=f03737" alt="GitHub Streak" />
+<img align="center" height=175 width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=krniya&border=000000&ring=ed6161&fire=f03737&theme=dark" alt="GitHub Streak" />
 
 <p align="center">
 <img alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=krniya&label=Profile%20views&color=0e75b6&style=flat">
