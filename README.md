@@ -36,9 +36,9 @@
 <code><img alt="MongoDB" width="35px" src="https://github.com/krniya/krniya/blob/main/Assets/mongodb.png" ></code>
 <code><img alt="Postgres" width="35px" src="https://github.com/krniya/krniya/blob/main/Assets/postgresql.svg" ></code>
 <code><img alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" ></code>
-<code><img alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" ></code>
+<code><img alt="GitHub" width="45px" src="https://github.com/krniya/krniya/blob/main/Assets/github.png" ></code>
 <code><img alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" ></code>
-<code><img alt="Azure" width="35px" src="https://github.com/krniya/krniya/blob/main/Assets/azure1.png" ></code>
+<code><img alt="Azure" width="45px" src="https://github.com/krniya/krniya/blob/main/Assets/azure1.png" ></code>
 
 <hr>
 
