@@ -31,7 +31,6 @@
 <code><img alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" ></code>
 <code><img alt="javascript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" ></code>
-<code><img alt="Gatsby" width="35px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" ></code>
 <code><img alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" ></code>
 <code><img alt="MongoDB" width="35px" src="https://github.com/krniya/krniya/blob/main/Assets/mongodb.png" ></code>
 <code><img alt="Postgres" width="35px" src="https://github.com/krniya/krniya/blob/main/Assets/postgresql.svg" ></code>
