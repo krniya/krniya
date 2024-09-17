@@ -45,7 +45,7 @@
   <img height=175 width=49% align="center" src="https://github-readme-stats.vercel.app/api?username=krniya&show_icons=true&theme=dark&border_color=000000" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 width=49% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krniya&langs_count=8&layout=compact&hide_border=true&hide=jupyter%20notebook,java,roff&theme=dark" />
+  <img height=175 width=49% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krniya&langs_count=8&layout=compact&hide_border=true&hide=jupyter%20notebook,roff&theme=dark" />
 </a>
   </a>
 <hr>
