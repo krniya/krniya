@@ -55,14 +55,12 @@
 
 <div align="center">
 
-<img height=175 width=49% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=krniya&show_icons=true&hide_border=true&theme=dark&border_color=000000" alt="GitHub Stats" />
-<img height=175 width=49% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=krniya&langs_count=8&layout=compact&hide_border=true&theme=dark&hide=jupyter%20notebook,roff" alt="Top Languages" />
+<img height=175 width=49% src="https://helio-github-stats.vercel.app/api?username=krniya&show_icons=true&hide_border=true&theme=dark&border_color=000000" alt="GitHub Stats" />
+<img height=175 width=49% src="https://helio-github-stats.vercel.app/api/top-langs?username=krniya&langs_count=8&layout=compact&hide_border=true&theme=dark&hide=jupyter%20notebook,roff" alt="Top Languages" />
 
 <img height=175 width="100%" src="https://streak-stats.demolab.com/?user=krniya&border=000000&ring=ed6161&fire=f03737&theme=dark" alt="GitHub Streak" />
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krniya&theme=react-dark&hide_border=true&area=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=krniya&theme=dark&no-frame=true&row=1&column=6)
 
 </div>
 
