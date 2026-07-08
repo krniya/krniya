@@ -1,61 +1,75 @@
-<img align= "center" alt="Full Control Counter" src="https://github.com/krniya/krniya/blob/main/Assets/shiroe.gif" width="100%" height="200">
+<img align="center" alt="Banner" src="https://github.com/krniya/krniya/blob/main/Assets/shiroe.gif" width="100%" height="200">
 
 <div align="center">
-<h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> <i>I am Nitish Kumar aka NiYa</i><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h2>
 
-<h2><i>A Software Engineer 👨‍💻, lifelong learner 🧠 and ML Enthusiast 🤖</i></h2>
+# Hi, I'm Nitish Kumar <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Engineer;Lifelong+Learner;ML+Enthusiast;Otaku+%E2%9A%94)](https://git.io/typing-svg)
+
 </div>
+
 <img align="right" alt="L for Light" src="https://github.com/krniya/krniya/blob/main/Assets/l.gif" width="300" height="250" />
 
--   🔭 _I’m currently working on_ **Microservices 🔬 Technology**
--   🌱 _I’m currently learning_ **High Level Design↗️ & Low Level Design↘️**
--   🥅 _2024 Goals:_ **Contribute more to Open Source projects👐**
--   ⚡ _Fun fact:_ **I love graphics designing🎨, Gaming🎮 & am a *Otaku*⚔**
+- 🔭 _Building things with_ **modern web & backend tech**
+- 🌱 _Currently exploring_ **System Design (HLD/LLD) & ML**
+- 🤖 _Currently building with_ **AI-assisted & agentic coding workflows**
+- 🤝 _Open to_ **collaborating on interesting open-source projects**
+- ⚡ _Fun fact:_ **graphics design 🎨, gaming 🎮, and certified Otaku ⚔**
 
 <br />
 
-### *Find me on Web*🕸:
+### Find me on the web
 
-[<img align="left" alt="krniya_ | Twitter" width="22px" src="https://github.com/krniya/krniya/blob/main/Assets/twitter.png" />][twitter]
-[<img align="left" alt="krniya | LinkedIn" width="22px" src="https://github.com/krniya/krniya/blob/main/Assets/linkedin.png" />][linkedin]
-[<img align="left" alt="krniya | Instagram" width="22px" src="https://github.com/krniya/krniya/blob/main/Assets/insta.png" />][instagram]
-[<img align="left" alt="krniya | Instagram" width="22px" src="https://github.com/krniya/krniya/blob/main/Assets/spotify.png" />][spotify]
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
+[![Spotify](https://img.shields.io/badge/-Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)][spotify]
+
+</div>
 
 <br />
 
-### *Languages👨‍🏫 and Tools*🔧:
+### Languages & Tools
 
-<code><img alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
-<code><img alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></code>
-<code><img alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" ></code>
-<code><img alt="javascript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" ></code>
-<code><img alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" ></code>
-<code><img alt="MongoDB" width="35px" src="https://github.com/krniya/krniya/blob/main/Assets/mongodb.png" ></code>
-<code><img alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" ></code>
-<code><img alt="GitHub" width="45px" src="https://github.com/krniya/krniya/blob/main/Assets/github.png" ></code>
-<code><img alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" ></code>
-<code><img alt="Azure" width="45px" src="https://github.com/krniya/krniya/blob/main/Assets/azure1.png" ></code>
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=vscode,html,css,py,js,java,spring,react,gatsby,nodejs,kafka,mongodb,postgres,git,github,bash,azure,docker,figma&theme=dark)
+
+</div>
+
+<br />
+
+### AI & Agentic Tooling 🤖
+
+<div align="center">
+
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+</div>
 
 <hr>
 
-<a align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-  <img height=175 width=49% align="center" src="https://github-readme-stats.vercel.app/api?username=krniya&show_icons=true&theme=dark&border_color=000000" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 width=49% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krniya&langs_count=8&layout=compact&hide_border=true&hide=jupyter%20notebook,roff&theme=dark" />
-</a>
-  </a>
-<hr>
+<div align="center">
 
-<img align="center" height=175 width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=krniya&border=000000&ring=ed6161&fire=f03737&theme=dark" alt="GitHub Streak" />
+<img height=175 width=49% src="https://github-readme-stats.vercel.app/api?username=krniya&show_icons=true&hide_border=true&theme=dark&border_color=000000" alt="GitHub Stats" />
+<img height=175 width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=krniya&langs_count=8&layout=compact&hide_border=true&theme=dark&hide=jupyter%20notebook,roff" alt="Top Languages" />
+
+<img height=175 width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=krniya&border=000000&ring=ed6161&fire=f03737&theme=dark" alt="GitHub Streak" />
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=krniya&theme=dark&no-frame=true&row=1&column=6)
+
+</div>
+
+<hr>
 
 <p align="center">
 <img alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=krniya&label=Profile%20views&color=0e75b6&style=flat">
 <img alt="Year badge" src="https://badges.pufler.dev/years/krniya">
-<img alt="repo" src ="https://badges.pufler.dev/repos/krniya">
+<img alt="repo" src="https://badges.pufler.dev/repos/krniya">
 <img alt="commit" src="https://badges.pufler.dev/commits/monthly/krniya">
 </p>
 <p align="center">
@@ -64,12 +78,15 @@
 
 <br />
 
-<h2 align='center'>⚔ Here's a <i>Otaku</i> Quote ⚔<h2>
+<h2 align="center">⚔ Here's an <i>Otaku</i> Quote ⚔</h2>
 
-<br />  
-<img align= "center" alt="But You can fly higher!" src="https://github.com/krniya/krniya/blob/main/Assets/haikyuu.gif" width="100%" height="300">
+<br />
+
+<img align="center" alt="But you can fly higher!" src="https://github.com/krniya/krniya/blob/main/Assets/haikyuu.gif" width="100%" height="300">
 
 [twitter]: https://www.twitter.com/krniya_/
 [instagram]: https://instagram.com/krniya/
 [linkedin]: https://www.linkedin.com/in/krniya/
 [spotify]: https://open.spotify.com/user/q47rrprk3lt29n4gwydvqsd8z?si=Z5T7oO4iQLqK2oBzCTVjFg
+</content>
+</invoke>
